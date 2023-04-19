@@ -1,0 +1,21 @@
+html {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #ffffff;
+}
+.solar {
+  display: block;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+header h1 {
+  background-color: #364552;
+  color: white;
+  padding: 3rem 2rem;
+  font-size: 3rem;
+  text-align: center;
+  border-radius: 0.5rem;
+}

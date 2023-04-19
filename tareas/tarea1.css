@@ -1,26 +1,20 @@
-h1 {
-  color: cyan;
-front-size: 100px
-text-align:  center;
-
+p {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  background-color: blue;
 }
 
-
-#prueba {
-  text-shadow: 15px 15px pink;
-  text-transform: uppercase;
+#t1 {
+  color: pink;
+  font-size: 30px;
+  text-align: center;
+  background-color: black;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+#t2 {
+  color: black;
+  font-size: 40px;
+  text-align: right;
+  background-color: blanchedalmond;
+}
